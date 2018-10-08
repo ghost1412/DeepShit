@@ -12,3 +12,4 @@ def model(dateRange):
 	
 	return reg_model
 
+
