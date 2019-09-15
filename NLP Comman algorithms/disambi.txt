@@ -1,0 +1,151 @@
+Length of Vocabulary: 384254
+Word ('in', 7, 7400, 51800)
+Sense: Synset('indium.n.01')
+Defination: a rare soft silvery metallic element; occurs in small quantities in sphalerite
+Word ('is', 13, 3542, 46046)
+Sense: Synset('embody.v.02')
+Defination: represent, as of a character on stage
+Word ('was', 14, 2520, 35280)
+Sense: Synset('washington.n.02')
+Defination: a state in northwestern United States on the Pacific
+Word ('have', 20, 1380, 27600)
+Sense: Synset('rich_person.n.01')
+Defination: a person who possesses great material wealth
+Word ('as', 10, 2710, 27100)
+Sense: Synset('deoxyadenosine_monophosphate.n.01')
+Defination: one of the four nucleotides used in building DNA; all four nucleotides have a common phosphate group and a sugar (ribose)
+Word ('are', 14, 1841, 25774)
+Sense: Synset('embody.v.02')
+Defination: represent, as of a character on stage
+Word ('be', 14, 1813, 25382)
+Sense: Synset('embody.v.02')
+Defination: represent, as of a character on stage
+Word ('had', 19, 1162, 22078)
+Sense: Synset('induce.v.02')
+Defination: cause to do; cause to act in a specified manner
+Word ('were', 13, 1374, 17862)
+Sense: Synset('embody.v.02')
+Defination: represent, as of a character on stage
+Word ('has', 20, 846, 16920)
+Sense: Synset('induce.v.02')
+Defination: cause to do; cause to act in a specified manner
+Word ('made', 52, 269, 13988)
+Sense: Synset('take.v.27')
+Defination: head into a specified direction
+Word ('make', 51, 267, 13617)
+Sense: Synset('take.v.27')
+Defination: head into a specified direction
+Word ('work', 34, 397, 13498)
+Sense: Synset('workplace.n.01')
+Defination: a place where work is done
+Word ('on', 5, 2439, 12195)
+Sense: Synset('on.r.03')
+Defination: in a state required for something to function or be effective
+Word ('do', 16, 642, 10272)
+Sense: Synset('serve.v.09')
+Defination: spend time in prison or in a labor camp
+Word ('one', 9, 1055, 9495)
+Sense: Synset('one.s.06')
+Defination: being a single entity made by combining separate components
+Word ('out', 17, 546, 9282)
+Sense: Synset('out.s.03')
+Defination: not worth considering as a possibility
+Word ('been', 13, 692, 8996)
+Sense: Synset('embody.v.02')
+Defination: represent, as of a character on stage
+Word ('take', 44, 176, 7744)
+Sense: Synset('take.v.39')
+Defination: develop a habit
+Word ('back', 28, 268, 7504)
+Sense: Synset('binding.n.05')
+Defination: the protective covering on the front, back, and spine of a book
+Word ('see', 25, 295, 7375)
+Sense: Synset('visit.v.01')
+Defination: go to see a place, as for entertainment
+Word ('time', 15, 489, 7335)
+Sense: Synset('time.v.05')
+Defination: adjust so that a force is applied and an action occurs at the desired time
+Word ('right', 36, 202, 7272)
+Sense: Synset('right.n.01')
+Defination: an abstract idea of that which is due to a person or governmental body by law or tradition or nature; ; - Eleanor Roosevelt
+Word ('so', 11, 657, 7227)
+Sense: Synset('thus.r.02')
+Defination: in the way indicated; ; ; (`thusly' is a nonstandard variant)
+Word ('up', 14, 503, 7042)
+Sense: Synset('up.s.04')
+Defination: extending or moving toward a higher place
+Word ('down', 26, 256, 6656)
+Sense: Synset('down.s.04')
+Defination: being put out by a strikeout
+Word ('go', 35, 185, 6475)
+Sense: Synset('sound.v.02')
+Defination: make a certain noise or sound
+Word ('given', 47, 136, 6392)
+Sense: Synset('given.s.01')
+Defination: acknowledged as a supposition
+Word ('about', 8, 784, 6272)
+Sense: Synset('about.r.05')
+Defination: in or to a reversed position or direction
+Word ('can', 8, 777, 6216)
+Sense: Synset('toilet.n.02')
+Defination: a plumbing fixture for defecation and urination
+Word ('did', 13, 473, 6149)
+Sense: Synset('serve.v.09')
+Defination: spend time in prison or in a labor camp
+Word ('well', 22, 272, 5984)
+Sense: Synset('well.r.02')
+Defination: thoroughly or completely; fully; often used as a combining form; ; ; ; ; ,
+Word ('better', 50, 118, 5900)
+Sense: Synset('well.r.02')
+Defination: thoroughly or completely; fully; often used as a combining form; ; ; ; ; ,
+Word ('get', 37, 158, 5846)
+Sense: Synset('receive.v.02')
+Defination: receive a specified treatment (abstract)
+Word ('like', 11, 517, 5687)
+Sense: Synset('like.n.02')
+Defination: a kind of person
+Word ('even', 14, 395, 5530)
+Sense: Synset('tied.s.05')
+Defination: of the score in a contest
+Word ('good', 27, 204, 5508)
+Sense: Synset('well.r.01')
+Defination: (often used as a combining form) in a good or proper or satisfactory manner or to a high standard (`good' is a nonstandard dialectal variant for `well')
+Word ('first', 16, 343, 5488)
+Sense: Synset('first_gear.n.01')
+Defination: the lowest forward gear ratio in the gear box of a motor vehicle; used to start a car moving
+Word ('found', 21, 259, 5439)
+Sense: Synset('rule.v.04')
+Defination: decide on and make a declaration about
+Word ('support', 22, 244, 5368)
+Sense: Synset('support.v.09')
+Defination: play a subordinate role to (another performer)
+Word ('new', 12, 421, 5052)
+Sense: Synset('newfangled.s.01')
+Defination: (of a new kind or fashion) gratuitously new
+Word ('life', 14, 357, 4998)
+Sense: Synset('life_sentence.n.01')
+Defination: a prison term lasting as long as the prisoner lives
+Word ('set', 45, 111, 4995)
+Sense: Synset('fixed.s.02')
+Defination: fixed and unmoving; ; - Connor Cruise O'Brien
+Word ('only', 9, 548, 4932)
+Sense: Synset('only.r.07')
+Defination: as recently as
+Word ('studies', 16, 308, 4928)
+Sense: Synset('survey.n.01')
+Defination: a detailed critical inspection
+Word ('more', 5, 970, 4850)
+Sense: Synset('more.r.02')
+Defination: comparative of much; to a greater degree or extent
+Word ('called', 28, 168, 4704)
+Sense: Synset('visit.v.03')
+Defination: pay a brief visit
+Word ('place', 32, 140, 4480)
+Sense: Synset('topographic_point.n.01')
+Defination: a point located with respect to surface features of some region
+Word ('making', 52, 85, 4420)
+Sense: Synset('take.v.27')
+Defination: head into a specified direction
+Word ('best', 43, 102, 4386)
+Sense: Synset('well.r.02')
+Defination: thoroughly or completely; fully; often used as a combining form; ; ; ; ; ,
